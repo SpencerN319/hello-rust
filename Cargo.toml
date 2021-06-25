@@ -1,6 +1,7 @@
 [package]
-name = "hello-rust"
-version = "0.1.0"
+name = "hello_rust"
+version = "2.3.4"
+authors = ["Spencer Nicol <spencern319@gmail.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
